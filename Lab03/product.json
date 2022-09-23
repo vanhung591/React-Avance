@@ -1,0 +1,39 @@
+{
+    "catagories" : [
+        {
+            "foods" : [
+                {
+                    "name" : "pork",
+                    "price": 100,
+                    "unit" : "kilogram"
+                },
+                {
+                    "name" : "beef",
+                    "price": 200,
+                    "unit" : "kilogram"
+                },
+                {
+                    "name" : "chicken",
+                    "price": 300,
+                    "unit" : "one"
+                }
+            ]
+        },
+        {
+            "foods" : [
+                {
+                    "name" : "TV",
+                    "price": 100
+                },
+                {
+                    "name" : "fan",
+                    "price": 500
+                },
+                {
+                    "name" : "laptop",
+                    "price": 1000
+                }
+            ]  
+        }
+    ]
+}

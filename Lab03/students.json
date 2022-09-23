@@ -1,0 +1,99 @@
+{
+    "students" : [
+        {
+            "Id": 1, 
+            "Name" : "Lê Văn Hùng",
+            "scores": 
+            [
+                {
+                "Name" : "math",
+                "Grade" : 8
+                },
+                {
+                "Name" : "Phisics",
+                "Grade" : 9
+                },
+                {
+                    "Name" : "Chemistry",
+                    "Grade" : 8
+                }
+            ]
+        },
+        {
+            "Id": 2, 
+            "Name" : "Nguyễn Văn Sơn",
+            "scores": 
+            [
+                {
+                "Name" : "math",
+                "Grade" : 5
+                },
+                {
+                "Name" : "Phisics",
+                "Grade" : 6
+                },
+                {
+                    "Name" : "Chemistry",
+                    "Grade" : 3
+                }
+            ]
+        },
+        {
+            "Id": 3, 
+            "Name" : "Lý Hùng",
+            "scores": 
+            [
+                {
+                "Name" : "math",
+                "Grade" : 9
+                },
+                {
+                "Name" : "Phisics",
+                "Grade" : 9
+                },
+                {
+                    "Name" : "Chemistry",
+                    "Grade" : 10
+                }
+            ]
+        },
+        {
+            "Id": 4, 
+            "Name" : "Trương Hoàng Huy",
+            "scores": 
+            [
+                {
+                "Name" : "math",
+                "Grade" : 8
+                },
+                {
+                "Name" : "Phisics",
+                "Grade" : 8
+                },
+                {
+                    "Name" : "Chemistry",
+                    "Grade" : 8
+                }
+            ]
+        },
+        {
+            "Id": 5, 
+            "Name" : "Lê Thanh Phong",
+            "scores": 
+            [
+                {
+                "Name" : "math",
+                "Grade" : 10
+                },
+                {
+                "Name" : "Phisics",
+                "Grade" : 9
+                },
+                {
+                    "Name" : "Chemistry",
+                    "Grade" : 7
+                }
+            ]
+        }
+    ]
+}
