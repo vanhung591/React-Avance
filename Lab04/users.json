@@ -1,0 +1,29 @@
+{
+    "role_group" :{
+        "user" : {
+            "roleId":1,
+            "users": [
+                {"user_id": 1, "username": "user_01", "password": 123456, "full_name": "peter"},
+                {"user_id": 2, "username": "user_02", "password": 789123, "full_name": "Mary"},
+                {"user_id": 3, "username": "user_03", "password": 456789, "full_name": "Harry"},
+                {"user_id": 4, "username": "user_04", "password": 135791, "full_name": "Anna"}
+            ]
+        },
+        "staff":{
+            "roleId":2,
+            "users": [
+                {"user_id": 5, "username": "user_05", "password": 246802, "full_name": "Julie"}
+            ]
+        },
+        "admin": {
+            "roleId":3,
+            "users": [
+                {"user_id": 6, "username": "user_06", "password": 123789, "full_name": "Boss"},
+                {"user_id": 7, "username": "user_07", "password": 456123, "full_name": "Bill"}
+            ]
+        }
+    },
+    "config":{
+        "current_user_id": 8
+    }
+}
