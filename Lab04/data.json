@@ -1,0 +1,39 @@
+{
+    "store" : {
+        "brand" : [
+            {"id": 1, "name" : "SamSung"},
+            {"id": 2, "name" : "Apple"},
+            {"id": 3, "name" : "Lenovo"}
+        ],
+        "categories" : [
+            {
+                "id" : 1,
+                "name" : "mobile", 
+                "products": [
+                    {
+                        "id" : 1, " name" : "Galaxy S 21", "price" : 1000, "brand_id": 1
+                    },
+                    {
+                        "id" : 2, " name" : "Iphone 12 Pro Max", "price" : 2000, "brand_id": 2
+                    }
+                   
+                ]
+            },
+            {
+                "id" : 2,
+                "name" : "laptop", 
+                "products": [
+                    {
+                        "id" : 1, " name" : "MacBook pro M1", "price" : 3000, "brand_id": 2
+                    },
+                    {
+                        "id" : 2, " name" : "X1 Carbon", "price" : 4000, "brand_id": 3
+                    },
+                    {
+                        "id" : 3, " name" : "Galaxy Book Pro", "price" : 1000, "brand_id": 1
+                    } 
+                ]
+            }
+        ]
+    }
+}
